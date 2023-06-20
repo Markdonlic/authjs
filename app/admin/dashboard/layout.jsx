@@ -69,7 +69,7 @@ export default function DashboardLayout({ children }) {
                 </span>
                 <span className="profile_link_text">messages</span>
               </Link>
-              <Link href="/" className="profile_link">
+              <Link href="#" className="profile_link">
                 <span className="profile_link_icon">
                   <BiPowerOff />{" "}
                 </span>

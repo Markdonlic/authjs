@@ -22,7 +22,7 @@ const UserLayout = ({ children }) => {
               <span className="profile_link_icon">&#8614; </span>
               <span className="profile_link_text">contact admin</span>
             </Link>
-            <Link href="/" className="profile_link">
+            <Link href="#" className="profile_link">
               <span className="profile_link_icon">&#8614; </span>
               <span className="profile_link_text">Log Out</span>
             </Link>
